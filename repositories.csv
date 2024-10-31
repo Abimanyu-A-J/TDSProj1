@@ -116,7 +116,7 @@ rstacruz,rstacruz/tsx,2023-02-07T05:53:10Z,1,1,,True,False,mit
 rstacruz,rstacruz/architecture-decision-record,2023-01-16T01:06:23Z,0,0,,True,True,
 rstacruz,rstacruz/nvim-various-textobjs,2023-01-10T22:53:43Z,0,0,,True,True,mit
 rstacruz,rstacruz/rehype-sectionize,2020-04-28T01:58:37Z,3,3,JavaScript,True,True,
-jesseduffield,jesseduffield/lazygit,2018-05-19T00:53:06Z,52603,52603,Go,True,True,mit
+jesseduffield,jesseduffield/lazygit,2018-05-19T00:53:06Z,52604,52604,Go,True,True,mit
 jesseduffield,jesseduffield/jesseduffield.github.io,2021-03-26T23:46:53Z,1,1,SCSS,True,True,mit
 jesseduffield,jesseduffield/gocui,2018-06-05T08:34:39Z,218,218,Go,True,True,bsd-3-clause
 jesseduffield,jesseduffield/homebrew-core,2019-03-04T08:51:57Z,1,1,Ruby,True,False,bsd-2-clause
@@ -688,7 +688,7 @@ mattgallagher,mattgallagher/CwlWhitespace,2016-06-28T05:50:48Z,26,26,Swift,True,
 mattgallagher,mattgallagher/CwlWorstPossibleApplication,2017-10-22T00:31:02Z,19,19,Swift,True,True,
 mattgallagher,mattgallagher/Mines,2017-01-12T04:51:07Z,31,31,C++,True,True,isc
 mattgallagher,mattgallagher/Playgrounds2017,2017-03-07T01:38:02Z,6,6,Swift,True,True,isc
-sidorares,sidorares/node-mysql2,2013-04-17T05:23:59Z,4063,4063,JavaScript,True,True,mit
+sidorares,sidorares/node-mysql2,2013-04-17T05:23:59Z,4064,4064,JavaScript,True,True,mit
 sidorares,sidorares/kotja.design,2024-08-09T04:14:53Z,0,0,CSS,True,False,
 sidorares,sidorares/hrserve,2024-09-06T10:05:52Z,0,0,JavaScript,True,False,mit
 sidorares,sidorares/node-x11,2011-06-07T04:03:20Z,518,518,JavaScript,True,True,mit
